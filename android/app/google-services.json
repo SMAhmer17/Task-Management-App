@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987081171764",
+    "project_id": "final-hackathon-3b445",
+    "storage_bucket": "final-hackathon-3b445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987081171764:android:63326cca671a52e659bb61",
+        "android_client_info": {
+          "package_name": "com.example.task_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987081171764-sansevqds6bkrussfgtrjk2sdm4rrdo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5-Jq5xs8sOqed9qZK5efc_kj2NQj4Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987081171764-sansevqds6bkrussfgtrjk2sdm4rrdo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
